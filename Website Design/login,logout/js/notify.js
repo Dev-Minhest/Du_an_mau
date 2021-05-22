@@ -1,0 +1,1 @@
+alert("Vui lòng đăng nhập hoặc đăng kí tài khoản trước khi thanh toán hoặc thêm vào giỏ hàng");
